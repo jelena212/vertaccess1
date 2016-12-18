@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Web developer & desinger : Jelena Isljamovic
+    Facebook: https://www.facebook.com/jelenaisljamovic
+    Hire: https://www.peopleperhour.com/freelancer/jelena/front-end-developer/909968
+
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Bootstrap
+    jQuery, Modernizr, javascript
